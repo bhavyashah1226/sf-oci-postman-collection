@@ -1,0 +1,6 @@
+ID,First Name,Last Name,Email,Phone Number,Available Date,Location,Download Link
+1,John,Doe,johndoe@mail.com,1234567890,1/1/2022,New York,http://example.com/download/records/location1/availability1.csv
+2,Jane,Smith,janesmith@mail.com,2345678901,2/2/2022,Los Angeles,http://example.com/download/records/location2/availability2.csv
+3,James,Brown,jamesbrown@mail.com,3456789012,3/3/2022,Chicago,http://example.com/download/records/location3/availability3.csv
+4,Jessica,Johnson,jessicajohnson@mail.com,4567890123,4/4/2022,Houston,http://example.com/download/records/location4/availability4.csv
+5,Robert,Lee,robertlee@mail.com,5678901234,5/5/2022,Philadelphia,http://example.com/download/records/location5/availability5.csv

@@ -1,0 +1,11 @@
+grant_type,scope
+client_credentials,read
+password,write
+authorization_code,execute
+refresh_token,create
+implicit,update
+client_credentials,delete
+password,read
+authorization_code,update
+refresh_token,execute
+implicit,create
