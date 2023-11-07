@@ -32,6 +32,7 @@ scenarios:
             - hasProperty: '_authorization_key'
             - equals: 
                 token_type: 'bearer'
+          - log: "Test successful for 'Successful API request'"
 
   - name: "API request with validation failure"
     flow:
@@ -45,6 +46,7 @@ scenarios:
             - hasProperty: 'error_message'
             - equals: 
                 error_message: 'The requested URL was not found on the server.'
+          - log: "Test successful for 'API request with validation failure'"
 
   - name: "API request with edge case"
     flow:
@@ -61,3 +63,4 @@ scenarios:
             - hasProperty: 'response_pattern'
             - equals: 
                 response_pattern: 'Error: Invalid Grant Type'
+          - log: "Test successful for 'API request with edge case'"
