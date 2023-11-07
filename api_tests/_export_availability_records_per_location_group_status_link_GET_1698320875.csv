@@ -1,0 +1,11 @@
+ID,Location,Availability,RecordStatus,Group,Link
+1,New York,Available,Active,Group1,http://example.com
+2,Los Angeles,Unavailable,Inactive,Group2,http://example2.com
+3,Chicago,Available,Active,Group1,http://example3.com
+4,Houston,Unavailable,Inactive,Group2,http://example4.com
+5,Phoenix,Available,Active,Group1,http://example5.com
+6,Philadelphia,Unavailable,Active,Group2,http://example6.com
+7,San Antonio,Available,Inactive,Group1,http://example7.com
+8,San Diego,Unavailable,Active,Group2,http://example8.com
+9,Dallas,Available,Inactive,Group1,http://example9.com
+10,San Jose,Unavailable,Active,Group2,http://example10.com
